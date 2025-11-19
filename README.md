@@ -71,7 +71,7 @@ Photoshop / IllustratorBootstrap
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/alaminislam3203)
 
 <br/>
-## Github Stats
+<h1>Github Stats</h1>
 
 |                                                                                       Top Languages                                                                                       |                                                                          GitHub Stats                                                                           |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
