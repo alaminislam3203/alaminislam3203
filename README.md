@@ -214,3 +214,7 @@ Photoshop / IllustratorBootstrap
 - 🌱 I’m currently learning Java Script
 - 👯 I’m looking to collaborate on Programming Hero
 - 💬 Ask me about Programming
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together!&descSize=16&descAlignY=88" width="100%"/>
