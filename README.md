@@ -44,6 +44,32 @@ Photoshop / IllustratorBootstrap
   <a href="https://www.tiktok.com/@alamin_chowdhury_102">
     <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=TikTok&logoColor=white" alt="TikTok Badge"/>
   </a>
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/@no_copyright_sound_world?si=iRcsYD12NSscrTGr">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+
+  <!-- Threads -->
+  <a href="https://www.threads.net/@alamin_codes">
+    <img src="https://img.shields.io/badge/-Threads-000000?style=flat&logo=Threads&logoColor=white" alt="Threads Badge"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/01313334279">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+
+  <!-- Pinterest -->
+  <a href="https://pin.it/3VPfzMYAB">
+    <img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white" alt="Pinterest Badge"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/alamin_codes">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+
 </div>
 
 <!--- technology --->
