@@ -218,25 +218,49 @@ Photoshop / IllustratorBootstrap
 ---
 
 
-<h1 align="center">🔥 TOP PROJECT 🔥</h1>
-These will automatically show your pinned repos from GitHub.
+<h1 align="center">🔥 PREMIUM TOP PROJECTS 🔥</h1>
+---
 
+<p align="center">Beautifully crafted showcase of your best work</p>
 
+<br/>
 
+<p align="center">
+  <!-- Project 1 -->
+  <a href="https://github.com/alaminislam3203/EcoTrack-Client-Web">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alaminislam3203&repo=EcoTrack-Client-Web&theme=tokyonight&border_radius=20" />
+  </a>
+</p>
 
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=alaminislam3203&repo=boipoka&theme=tokyonight)](https://github.com/https://github.com/Sefat-Ullah-Fahad/boipoka)  
-**Bill Management System** – Simple web app to manage billing and invoices efficiently.
+<p align="center">
+  <b>EcoTrack Client Web</b> – A modern eco-tracking web platform focusing on sustainability.
+</p>
 
+<br/>
 
+<p align="center">
+  <!-- Project 2 -->
+  <a href="https://github.com/alaminislam3203/WarmPaws-Pet-Care-in-Winter">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alaminislam3203&repo=WarmPaws-Pet-Care-in-Winter&theme=tokyonight&border_radius=20" />
+  </a>
+</p>
 
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=alaminislam3203&repo=bill-management-&theme=tokyonight)](https://github.com/Sefat-Ullah-Fahad/bill-management-)  
-**Bill Management System** – Simple web app to manage billing and invoices efficiently.
+<p align="center">
+  <b>WarmPaws</b> – A helpful winter-care solution for pets with tips & emergency support.
+</p>
 
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=alaminislam3203&repo=hero-app&theme=tokyonight)](https://github.com/Sefat-Ullah-Fahad/hero-app)
+<br/>
 
+<p align="center">
+  <!-- Project 3 -->
+  <a href="https://github.com/alaminislam3203/Green-Earth-Web">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alaminislam3203&repo=Green-Earth-Web&theme=tokyonight&border_radius=20" />
+  </a>
+</p>
 
-
-
+<p align="center">
+  <b>Green Earth Web</b> – Eco-friendly awareness platform promoting a greener future.
+</p>
 
 ---
 
