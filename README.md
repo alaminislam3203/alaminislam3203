@@ -67,12 +67,12 @@ Photoshop / IllustratorBootstrap
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/alaminislam3203)
 
 <br/>
-
 ## Github Stats
 
-|                                                                                       Top Languages                                                                                       |                                                                          GitHub Stats                                                                           |                                                     GitHub Streak                                                      |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminislam3203&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaminislam3203&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alaminislam3203&theme=transparent&hide_border=true) |
+|                                                                                       Top Languages                                                                                       |                                                                          GitHub Stats                                                                           |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminislam3203&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaminislam3203&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) |
+
 
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Java Script
