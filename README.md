@@ -218,7 +218,7 @@ Photoshop / IllustratorBootstrap
 ---
 
 
-<h1 align="center">🔥 PREMIUM TOP PROJECTS 🔥</h1>
+<h1 align="center">🔥 TOP PROJECTS 🔥</h1>
 ---
 
 <p align="center">Beautifully crafted showcase of your best work</p>
