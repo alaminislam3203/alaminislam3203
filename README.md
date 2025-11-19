@@ -34,8 +34,16 @@ Photoshop / IllustratorBootstrap
   <a href="https://x.com/alamin_codes"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://hashnode.com/@alamincodes"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white" alt="Hashnode Badge"/></a>
   <a href="mailto:alaminislam3203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
-</div>
 
+  <!-- Instagram -->
+  <a href="https://instagram.com/alamin_codes">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@alamin_chowdhury_102">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=TikTok&logoColor=white" alt="TikTok Badge"/>
+  </a>
 </div>
 
 <!--- technology --->
