@@ -78,31 +78,129 @@ Photoshop / IllustratorBootstrap
 
 ### Languages:
 
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql,py)](https://github.com/alaminislam3203)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=typescript" />
+</a>
+<a href="https://graphql.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=graphql" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=py" />
+</a>
+
+---
 
 ### CSS Frameworks & Libraries:
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+<a href="https://mui.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=materialui" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+</a>
 
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/alaminislam3203)
+---
 
 ### JavaScript Frameworks & Libraries:
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=next" />
+</a>
+<a href="https://redux.js.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redux" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" />
+</a>
 
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/alaminislam3203)
+---
 
 ### Database & Model:
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</a>
+<a href="https://www.prisma.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=prisma" />
+</a>
+<a href="https://supabase.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=supabase" />
+</a>
 
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase)](https://github.com/alaminislam3203)
+---
 
 ### Deployment Platform:
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+<a href="https://www.netlify.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=netlify" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</a>
 
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/alaminislam3203)
+---
 
 ### Design & Graphics:
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ai" />
+</a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ps" />
+</a>
 
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/alaminislam3203)
+---
 
 ### Tools & Technologies:
-
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/alaminislam3203)
+<a href="https://www.microsoft.com/windows" target="_blank">
+  <img src="https://skillicons.dev/icons?i=windows" />
+</a>
+<a href="https://ubuntu.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ubuntu" />
+</a>
+<a href="https://www.notion.so/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=notion" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+<a href="https://github.com/alaminislam3203" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postman" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
 
 <br/>
 <h1 align="center">Github Stats</h1>
