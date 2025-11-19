@@ -40,7 +40,7 @@ Photoshop / IllustratorBootstrap
 
 <!--- technology --->
 
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="20"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
 
