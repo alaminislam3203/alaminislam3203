@@ -8,8 +8,11 @@
   </a>
 </h1>
 
+
 <div align="center">
+ <h1>About Me </h1> 
   <strong>
+
 
 I’m a Front End Web developer passionate about making error-free websites with
 100% client satisfaction. I am passionate about learning and sharing my
@@ -22,6 +25,7 @@ include VUE JS / REACT / JS / HTML / CSS / WORDPRESS HTML5 / CSS3 / SASS /
 Photoshop / IllustratorBootstrap
 
 </strong>
+<h3>Social and Contact</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alaminislam3203/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
