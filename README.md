@@ -56,7 +56,7 @@ Photoshop / IllustratorBootstrap
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/01313334279">
+  <a href="https://wa.me/+8801313334279">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 
