@@ -14,15 +14,16 @@
   <strong>
 
 
-I’m a Front End Web developer passionate about making error-free websites with
-100% client satisfaction. I am passionate about learning and sharing my
-knowledge with others as publicly as possible. I love to solve real-world
-problems. I am strategic and goal-oriented, and I always work with an end goal
-in mind. Over the past years, I created 100s of websites for my clients. I pride
-myself on doing quality work and maintaining excellent communication. Most of
-the time I work with WordPress but some technologies I enjoy working with
-include VUE JS / REACT / JS / HTML / CSS / WORDPRESS HTML5 / CSS3 / SASS /
-Photoshop / IllustratorBootstrap
+I am a passionate front-end web developer dedicated to creating clean, fast, and user-centric digital experiences. I specialize in creating error-free, responsive, and visually appealing websites that deliver real value to clients and users. My work is driven by a deep commitment to continuous learning, problem-solving, and writing clean and maintainable code.
+
+Over the years, I have built hundreds of websites, from small business portfolios to complex WordPress-based systems. I pride myself on delivering high-quality work, clear communication, and a smooth development process from start to finish.
+
+I enjoy working with modern technology
+I am always exploring new tools, frameworks, and best practices to stay up-to-date in the fast-paced world of web development. My goal is simple:
+
+To create functional, fast, visually appealing, and purposefully designed products.
+
+I love solving real-world problems, collaborating on meaningful projects, and helping businesses strengthen their digital presence. If you are interested in modern front-end technologies, WordPress development, or UI/UX improvements - feel free to connect or explore my repository!
 
 </strong>
 <h3>Social and Contact</h3>
