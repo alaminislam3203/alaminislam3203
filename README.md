@@ -31,7 +31,7 @@ I love solving real-world problems, collaborating on meaningful projects, and he
 <div align="center">
   <a href="https://www.linkedin.com/in/alaminislam3203/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://app.daily.dev/alamin_codes"><img src="https://img.shields.io/badge/-Daily%20Dev-000000?style=flat&logo=daily.dev&logoColor=white" alt="Daily Dev Badge"/></a>
-  <a href="https://sites.google.com/view/ncsworld/home"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a>
+  <a href="https://alamin-codes.web.app/"><img src="https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a>
   <a href="https://x.com/alamin_codes"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://hashnode.com/@alamincodes"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white" alt="Hashnode Badge"/></a>
   <a href="mailto:alaminislam3203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
