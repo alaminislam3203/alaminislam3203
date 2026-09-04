@@ -11,20 +11,12 @@
 
 <div align="center">
  <h1>About Me </h1> 
-  <strong>
+<strong>
+I am a passionate Front-End Developer dedicated to crafting clean, high-performance, and user-centric web applications. Specializing in modern JavaScript frameworks and responsive WordPress solutions, I transform ideas into scalable, error-free digital experiences. 
 
+With experience building over 100+ websites—from custom business platforms to complex CMS architectures—I focus on writing clean, maintainable code and solving real-world problems. Always learning and adopting modern UI/UX practices, my goal is to deliver functional, lightning-fast, and visually striking products that drive business value. 
 
-I am a passionate front-end web developer dedicated to creating clean, fast, and user-centric digital experiences. I specialize in creating error-free, responsive, and visually appealing websites that deliver real value to clients and users. My work is driven by a deep commitment to continuous learning, problem-solving, and writing clean and maintainable code.
-
-Over the years, I have built hundreds of websites, from small business portfolios to complex WordPress-based systems. I pride myself on delivering high-quality work, clear communication, and a smooth development process from start to finish.
-
-I enjoy working with modern technology
-I am always exploring new tools, frameworks, and best practices to stay up-to-date in the fast-paced world of web development. My goal is simple:
-
-To create functional, fast, visually appealing, and purposefully designed products.
-
-I love solving real-world problems, collaborating on meaningful projects, and helping businesses strengthen their digital presence. If you are interested in modern front-end technologies, WordPress development, or UI/UX improvements - feel free to connect or explore my repository!
-
+Let’s connect or explore my repositories to collaborate!
 </strong>
 <h3>Social and Contact</h3>
 
