@@ -1,9 +1,13 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=220&section=header&text=AL-AMIN%20ISLAM&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Lead%20Full-Stack%20Engineer%20%7C%20MerxoDev%20Solutions&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Main Hero Banner -->
+  <a href="https://merxodevsolutions.pro.bd">
+    <img src="images/github-banner.png" width="100%" alt="AL-AMIN ISLAM | Founder & Lead Full-Stack Engineer | MerxoDev Solutions" />
+  </a>
 
-  <!-- Profile Visitor Badge -->
+  <br/><br/>
+
+  <!-- Profile Visitor Badges -->
   <p align="center">
     <a href="https://merxodevsolutions.pro.bd">
       <img src="https://img.shields.io/badge/Agency-MerxoDev%20Solutions-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="MerxoDev Solutions" />
@@ -20,10 +24,6 @@
       <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=780&lines=Founder+%26+Lead+Engineer+@+MerxoDev+Solutions;Full-Stack+Web+%26+SaaS+Application+Architect;Next.js+15+%7C+TypeScript+%7C+React+%7C+Node.js;56%2B+Production+Projects+Delivered+Worldwide;Building+Ultra-Fast%2C+High-Converting+Web+Products" alt="Typing SVG" />
     </a>
   </h1>
-
-  <p align="center">
-    <img src="images/github banner.png" width="900" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" alt="MerxoDev Banner"/>
-  </p>
 
 </div>
 
@@ -110,7 +110,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
     <td width="50%" valign="top">
       <h3 align="center">⚡ Merxo-Hub Workspace</h3>
       <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/our-projects">
+        <a href="https://merxodevsolutions.pro.bd/our-projects/merxo-hub">
           <img src="https://img.shields.io/badge/Case_Study-Explore-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
         </a>
       </p>
