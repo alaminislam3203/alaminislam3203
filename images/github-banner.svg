@@ -55,47 +55,47 @@
       <stop offset="100%" stop-color="#A5B4FC"/>
     </linearGradient>
 
-    <!-- ClipPaths for Terminal-Style Dynamic Typing Animation -->
+    <!-- ClipPaths for Terminal-Style Dynamic Typing Animation (Font-size 30, Centered) -->
     <clipPath id="c0">
-      <rect x="389.4" y="86" height="50" width="0">
+      <rect x="357.0" y="86" height="56" width="0">
         <animate attributeName="width" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.0429;0.1571;0.1643;1.0000"
-          values="0.00;421.20;421.20;0.00;0.00"/>
+          values="0.00;486.00;486.00;0.00;0.00"/>
       </rect>
     </clipPath>
     <clipPath id="c1">
-      <rect x="256.8" y="86" height="50" width="0">
+      <rect x="204.0" y="86" height="56" width="0">
         <animate attributeName="width" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.1667;0.2095;0.3238;0.3310;1.0000"
-          values="0.00;0.00;686.40;686.40;0.00;0.00"/>
+          values="0.00;0.00;792.00;792.00;0.00;0.00"/>
       </rect>
     </clipPath>
     <clipPath id="c2">
-      <rect x="264.6" y="86" height="50" width="0">
+      <rect x="213.0" y="86" height="56" width="0">
         <animate attributeName="width" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.3333;0.3762;0.4905;0.4976;1.0000"
-          values="0.00;0.00;670.80;670.80;0.00;0.00"/>
+          values="0.00;0.00;774.00;774.00;0.00;0.00"/>
       </rect>
     </clipPath>
     <clipPath id="c3">
-      <rect x="280.2" y="86" height="50" width="0">
+      <rect x="231.0" y="86" height="56" width="0">
         <animate attributeName="width" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.5000;0.5429;0.6571;0.6643;1.0000"
-          values="0.00;0.00;639.60;639.60;0.00;0.00"/>
+          values="0.00;0.00;738.00;738.00;0.00;0.00"/>
       </rect>
     </clipPath>
     <clipPath id="c4">
-      <rect x="264.6" y="86" height="50" width="0">
+      <rect x="213.0" y="86" height="56" width="0">
         <animate attributeName="width" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.6667;0.7095;0.8238;0.8310;1.0000"
-          values="0.00;0.00;670.80;670.80;0.00;0.00"/>
+          values="0.00;0.00;774.00;774.00;0.00;0.00"/>
       </rect>
     </clipPath>
     <clipPath id="c5">
-      <rect x="217.8" y="86" height="50" width="0">
+      <rect x="159.0" y="86" height="56" width="0">
         <animate attributeName="width" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.8333;0.8762;0.9905;0.9976;1.0000"
-          values="0.00;0.00;764.40;764.40;0.00;0.00"/>
+          values="0.00;0.00;882.00;882.00;0.00;0.00"/>
       </rect>
     </clipPath>
 
@@ -131,10 +131,10 @@
         50%      { opacity: 1; r: 4; }
       }
       @keyframes underlineGrow {
-        0%   { stroke-dashoffset: 460; }
+        0%   { stroke-dashoffset: 560; }
         45%  { stroke-dashoffset: 0; }
         55%  { stroke-dashoffset: 0; }
-        100% { stroke-dashoffset: -460; }
+        100% { stroke-dashoffset: -560; }
       }
       @keyframes radarWave {
         0%   { r: 4; opacity: 0.95; stroke-width: 1.6; }
@@ -172,7 +172,7 @@
       .subline  { opacity: 0; animation: fadeSlide 0.8s ease-out 0.55s forwards; }
       .badge    { opacity: 0; animation: fadeSlide 0.8s ease-out 0.9s forwards; }
 
-      .underline { stroke-dasharray: 460; animation: underlineGrow 4.5s ease-in-out infinite; }
+      .underline { stroke-dasharray: 560; animation: underlineGrow 4.5s ease-in-out infinite; }
       .driftGroup { animation: driftSlow 10s ease-in-out infinite; transform-box: fill-box; }
     </style>
   </defs>
@@ -201,76 +201,76 @@
     <circle class="particle p8 glowdot" cx="860" cy="180" r="2" fill="#93C5FD"/>
   </g>
 
-  <!-- Centered High-Speed Terminal-Style Typing Headline -->
+  <!-- Centered High-Speed Terminal-Style Typing Headline (Font-size 30) -->
   <g class="headline">
     <a href="https://merxodevsolutions.pro.bd" target="_blank">
       <!-- Line 0 -->
-      <text x="389.4" y="122" textLength="421.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)"
-            font-family="'Fira Code', Consolas, monospace" font-size="26" font-weight="700" fill="url(#txt)">Hi there! I'm AL-AMIN ISLAM</text>
-      <rect y="92" width="3.5" height="34" rx="1.5" fill="#06B6D4" opacity="0">
+      <text x="357.0" y="126" textLength="486.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)"
+            font-family="'Fira Code', Consolas, monospace" font-size="30" font-weight="700" fill="url(#txt)">Hi there! I'm AL-AMIN ISLAM</text>
+      <rect y="92" width="4" height="40" rx="2" fill="#06B6D4" opacity="0">
         <animate attributeName="x" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.0429;0.1571;0.1643;1.0000"
-          values="389.40;810.60;810.60;389.40;389.40"/>
+          values="357.00;843.00;843.00;357.00;357.00"/>
         <animate attributeName="opacity" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.0429;0.1571;0.1643;1.0000"
           values="1.00;1.00;1.00;0.00;0.00"/>
       </rect>
 
       <!-- Line 1 -->
-      <text x="256.8" y="122" textLength="686.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)"
-            font-family="'Fira Code', Consolas, monospace" font-size="26" font-weight="700" fill="url(#txt)">Founder &amp; Lead Engineer @ MerxoDev Solutions</text>
-      <rect y="92" width="3.5" height="34" rx="1.5" fill="#06B6D4" opacity="0">
+      <text x="204.0" y="126" textLength="792.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)"
+            font-family="'Fira Code', Consolas, monospace" font-size="30" font-weight="700" fill="url(#txt)">Founder &amp; Lead Engineer @ MerxoDev Solutions</text>
+      <rect y="92" width="4" height="40" rx="2" fill="#06B6D4" opacity="0">
         <animate attributeName="x" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.1667;0.2095;0.3238;0.3310;1.0000"
-          values="256.80;256.80;943.20;943.20;256.80;256.80"/>
+          values="204.00;204.00;996.00;996.00;204.00;204.00"/>
         <animate attributeName="opacity" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.1667;0.2095;0.3238;0.3310;1.0000"
           values="0.00;1.00;1.00;1.00;0.00;0.00"/>
       </rect>
 
       <!-- Line 2 -->
-      <text x="264.6" y="122" textLength="670.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)"
-            font-family="'Fira Code', Consolas, monospace" font-size="26" font-weight="700" fill="url(#txt)">Full-Stack Web &amp; SaaS Application Architect</text>
-      <rect y="92" width="3.5" height="34" rx="1.5" fill="#06B6D4" opacity="0">
+      <text x="213.0" y="126" textLength="774.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)"
+            font-family="'Fira Code', Consolas, monospace" font-size="30" font-weight="700" fill="url(#txt)">Full-Stack Web &amp; SaaS Application Architect</text>
+      <rect y="92" width="4" height="40" rx="2" fill="#06B6D4" opacity="0">
         <animate attributeName="x" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.3333;0.3762;0.4905;0.4976;1.0000"
-          values="264.60;264.60;935.40;935.40;264.60;264.60"/>
+          values="213.00;213.00;987.00;987.00;213.00;213.00"/>
         <animate attributeName="opacity" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.3333;0.3762;0.4905;0.4976;1.0000"
           values="0.00;1.00;1.00;1.00;0.00;0.00"/>
       </rect>
 
       <!-- Line 3 -->
-      <text x="280.2" y="122" textLength="639.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)"
-            font-family="'Fira Code', Consolas, monospace" font-size="26" font-weight="700" fill="url(#txt)">Next.js 15 | TypeScript | React | Node.js</text>
-      <rect y="92" width="3.5" height="34" rx="1.5" fill="#06B6D4" opacity="0">
+      <text x="231.0" y="126" textLength="738.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)"
+            font-family="'Fira Code', Consolas, monospace" font-size="30" font-weight="700" fill="url(#txt)">Next.js 15 | TypeScript | React | Node.js</text>
+      <rect y="92" width="4" height="40" rx="2" fill="#06B6D4" opacity="0">
         <animate attributeName="x" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.5000;0.5429;0.6571;0.6643;1.0000"
-          values="280.20;280.20;919.80;919.80;280.20;280.20"/>
+          values="231.00;231.00;969.00;969.00;231.00;231.00"/>
         <animate attributeName="opacity" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.5000;0.5429;0.6571;0.6643;1.0000"
           values="0.00;1.00;1.00;1.00;0.00;0.00"/>
       </rect>
 
       <!-- Line 4 -->
-      <text x="264.6" y="122" textLength="670.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c4)"
-            font-family="'Fira Code', Consolas, monospace" font-size="26" font-weight="700" fill="url(#txt)">56+ Production Projects Delivered Worldwide</text>
-      <rect y="92" width="3.5" height="34" rx="1.5" fill="#06B6D4" opacity="0">
+      <text x="213.0" y="126" textLength="774.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c4)"
+            font-family="'Fira Code', Consolas, monospace" font-size="30" font-weight="700" fill="url(#txt)">56+ Production Projects Delivered Worldwide</text>
+      <rect y="92" width="4" height="40" rx="2" fill="#06B6D4" opacity="0">
         <animate attributeName="x" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.6667;0.7095;0.8238;0.8310;1.0000"
-          values="264.60;264.60;935.40;935.40;264.60;264.60"/>
+          values="213.00;213.00;987.00;987.00;213.00;213.00"/>
         <animate attributeName="opacity" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.6667;0.7095;0.8238;0.8310;1.0000"
           values="0.00;1.00;1.00;1.00;0.00;0.00"/>
       </rect>
 
       <!-- Line 5 -->
-      <text x="217.8" y="122" textLength="764.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c5)"
-            font-family="'Fira Code', Consolas, monospace" font-size="26" font-weight="700" fill="url(#txt)">Building Ultra-Fast, High-Converting Web Products</text>
-      <rect y="92" width="3.5" height="34" rx="1.5" fill="#06B6D4" opacity="0">
+      <text x="159.0" y="126" textLength="882.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c5)"
+            font-family="'Fira Code', Consolas, monospace" font-size="30" font-weight="700" fill="url(#txt)">Building Ultra-Fast, High-Converting Web Products</text>
+      <rect y="92" width="4" height="40" rx="2" fill="#06B6D4" opacity="0">
         <animate attributeName="x" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.8333;0.8762;0.9905;0.9976;1.0000"
-          values="217.80;217.80;982.20;982.20;217.80;217.80"/>
+          values="159.00;159.00;1041.00;1041.00;159.00;159.00"/>
         <animate attributeName="opacity" dur="21.0s" repeatCount="indefinite"
           keyTimes="0.0000;0.8333;0.8762;0.9905;0.9976;1.0000"
           values="0.00;1.00;1.00;1.00;0.00;0.00"/>
@@ -279,17 +279,17 @@
   </g>
 
   <!-- Animated glowing multi-color gradient laser underline sweeping beneath the headline -->
-  <line x1="370" y1="152" x2="830" y2="152" class="underline" stroke="url(#lineGrad)" stroke-width="2" stroke-linecap="round"/>
+  <line x1="320" y1="156" x2="880" y2="156" class="underline" stroke="url(#lineGrad)" stroke-width="2.5" stroke-linecap="round"/>
 
   <!-- Cyber Glassmorphic Dual Badges -->
   <g class="badge">
     <!-- Left Badge: Live Pulsing Status Beacon -->
     <g>
-      <rect x="220" y="210" width="370" height="36" rx="18"
+      <rect x="220" y="214" width="370" height="36" rx="18"
             fill="url(#badgeBg)" stroke="url(#badgeBorder1)" stroke-width="1.2"/>
-      <circle cx="248" cy="228" r="4" fill="#10B981"/>
-      <circle class="radarWave" cx="248" cy="228" r="4" fill="none" stroke="#10B981"/>
-      <text x="265" y="233" font-family="'Fira Code', Consolas, monospace" font-size="12.5" font-weight="500">
+      <circle cx="248" cy="232" r="4" fill="#10B981"/>
+      <circle class="radarWave" cx="248" cy="232" r="4" fill="none" stroke="#10B981"/>
+      <text x="265" y="237" font-family="'Fira Code', Consolas, monospace" font-size="12.5" font-weight="500">
         <tspan fill="#F8FAFC" font-weight="600">Available for Hire</tspan>
         <tspan fill="#64748B"> · </tspan>
         <tspan fill="#34D399" font-weight="500">Full-Stack &amp; SaaS MVPs</tspan>
@@ -298,9 +298,9 @@
 
     <!-- Right Badge: Agency Track Record & Performance -->
     <g>
-      <rect x="610" y="210" width="370" height="36" rx="18"
+      <rect x="610" y="214" width="370" height="36" rx="18"
             fill="url(#badgeBg)" stroke="url(#badgeBorder2)" stroke-width="1.2"/>
-      <text x="795" y="233" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="12.5" font-weight="500">
+      <text x="795" y="237" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="12.5" font-weight="500">
         <tspan fill="#F59E0B">⚡</tspan>
         <tspan fill="#F8FAFC" font-weight="600"> 56+ Worldwide Projects</tspan>
         <tspan fill="#64748B"> · </tspan>
@@ -308,6 +308,7 @@
       </text>
     </g>
   </g>
+
 
   <!-- Cyber HUD Corner Brackets for High-Tech Canvas Framing -->
   <g opacity="0.4">
