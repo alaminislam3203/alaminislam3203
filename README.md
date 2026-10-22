@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
   <!-- Profile Visitor Badges & Status -->
   <p align="center">
@@ -11,17 +11,12 @@
     <img src="https://komarev.com/ghpvc/?username=alaminislam3203&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
-  <!-- Animated Typing SVG -->
-  <h1>
-    <a href="https://merxodevsolutions.pro.bd">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=1200&color=06B6D4&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+AL-AMIN+ISLAM+👋;Founder+%26+Lead+Engineer+@+MerxoDev+Solutions;Full-Stack+Web+%26+SaaS+Application+Architect;Next.js+15+%7C+TypeScript+%7C+React+%7C+Node.js;56%2B+Production+Projects+Delivered+Worldwide;Building+Ultra-Fast%2C+High-Converting+Web+Products" alt="Typing SVG" />
-    </a>
-  </h1>
+
 
   <!-- Main Hero Banner -->
   <p align="center">
     <a href="https://merxodevsolutions.pro.bd">
-      <img src="images/github-banner.png" width="100%" alt="AL-AMIN ISLAM | Founder & Lead Full-Stack Engineer | MerxoDev Solutions" />
+      <img src="images/github-banner.svg" width="100%" alt="AL-AMIN ISLAM | Founder & Lead Full-Stack Engineer | MerxoDev Solutions" />
     </a>
   </p>
 
