@@ -138,7 +138,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛍️ ORGANIC & Merxo Mart</h3>
+      <h3 align="center"> ORGANIC & Merxo Mart</h3>
       <p align="center">
         <a href="https://merxodevsolutions.pro.bd/our-projects">
           <img src="https://img.shields.io/badge/Case_Study-Explore-10B981?style=for-the-badge&logo=shopify&logoColor=white" />
