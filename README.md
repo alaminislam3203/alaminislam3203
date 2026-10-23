@@ -101,9 +101,9 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
     </td>
     <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/saas.svg" width="36" height="36" alt="Custom Web Application" />
-      <h3 align="center">Custom Web Application</h3>
-      <p align="center">Bespoke dashboards, multi-tenant SaaS tools, and scalable internal portals.</p>
+      <img src="images/icon/saas.svg" width="36" height="36" alt="Plugin Development" />
+      <h3 align="center">Plugin Development</h3>
+      <p align="center">Custom WordPress plugins and extensions tailored to your business logic.</p>
     </td>
   </tr>
   <!-- Set 1: Perfectly Aligned Buttons -->
@@ -129,11 +129,11 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
       <br/><br/>
     </td>
     <td width="33.33%" valign="middle" align="center">
-      <a href="https://merxodevsolutions.pro.bd/our-projects?category=islamic">
+      <a href="https://merxodevsolutions.pro.bd/our-projects?category=saas">
         <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
       </a>
       &nbsp;
-      <a href="https://merxodevsolutions.pro.bd/services-web-app">
+      <a href="https://merxodevsolutions.pro.bd/services-plugin-development">
         <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
       </a>
       <br/><br/>
