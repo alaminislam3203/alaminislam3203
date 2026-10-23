@@ -202,7 +202,8 @@
   </g>
 
   <!-- Centered High-Speed Terminal-Style Typing Headline (Font-size 30) -->
-  <g class="headline">
+  <g transform="translate(0,36)">
+<g class="headline">
     <a href="https://merxodevsolutions.pro.bd" target="_blank">
       <!-- Line 0 -->
       <text x="357.0" y="126" textLength="486.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)"
@@ -280,9 +281,10 @@
 
   <!-- Animated glowing multi-color gradient laser underline sweeping beneath the headline -->
   <line x1="320" y1="156" x2="880" y2="156" class="underline" stroke="url(#lineGrad)" stroke-width="2.5" stroke-linecap="round"/>
-
-  <!-- Cyber Glassmorphic Dual Badges -->
-  <g class="badge">
+  </g> 
+ <!-- Cyber Glassmorphic Dual Badges -->
+<g transform="translate(0,38)">
+<g class="badge">
     <!-- Left Badge: Live Pulsing Status Beacon -->
     <g>
       <rect x="220" y="214" width="370" height="36" rx="18"
@@ -308,6 +310,7 @@
       </text>
     </g>
   </g>
+    </g> 
 
 
   <!-- Cyber HUD Corner Brackets for High-Tech Canvas Framing -->
