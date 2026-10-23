@@ -119,7 +119,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
       <br/><br/>
     </td>
     <td width="33.33%" valign="middle" align="center">
-      <a href="https://merxodevsolutions.pro.bd/our-projects">
+      <a href="https://merxodevsolutions.pro.bd/our-projects?category=e-commerce">
         <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
       </a>
       &nbsp;
@@ -129,7 +129,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
       <br/><br/>
     </td>
     <td width="33.33%" valign="middle" align="center">
-      <a href="https://merxodevsolutions.pro.bd/our-projects">
+      <a href="https://merxodevsolutions.pro.bd/our-projects?category=islamic">
         <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
       </a>
       &nbsp;
