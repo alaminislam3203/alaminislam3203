@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800px" height="800px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="32" fill="#0D9488"/>
+  <g transform="translate(15, 14)" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Top Cylinder -->
+    <ellipse cx="17" cy="8" rx="14" ry="5" fill="#115E59" fill-opacity="0.4"/>
+    <!-- Middle Cylinder segment -->
+    <path d="M3,8 L3,18 C3,20.8 9.3,23 17,23 C24.7,23 31,20.8 31,18 L31,8"/>
+    <!-- Bottom Cylinder segment -->
+    <path d="M3,18 L3,28 C3,30.8 9.3,33 17,33 C24.7,33 31,30.8 31,28 L31,18"/>
+  </g>
+</svg>
