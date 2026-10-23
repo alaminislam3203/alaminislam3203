@@ -174,7 +174,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
       <br/><br/>
     </td>
     <td width="33.33%" valign="middle" align="center">
-      <a href="https://merxodevsolutions.pro.bd/our-projects">
+      <a href="https://merxodevsolutions.pro.bd/our-projects?category=fintech">
         <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
       </a>
       &nbsp;
@@ -219,7 +219,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
   <!-- Set 3: Perfectly Aligned Buttons -->
   <tr>
     <td width="33.33%" valign="middle" align="center">
-      <a href="https://merxodevsolutions.pro.bd/our-projects">
+      <a href="https://merxodevsolutions.pro.bd/our-projects?category=fintech">
         <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
       </a>
       &nbsp;
@@ -274,7 +274,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
   <!-- Set 4: Perfectly Aligned Buttons -->
   <tr>
     <td width="33.33%" valign="middle" align="center">
-      <a href="https://merxodevsolutions.pro.bd/our-projects">
+      <a href="https://merxodevsolutions.pro.bd">
         <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
       </a>
       &nbsp;
@@ -284,7 +284,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
       <br/><br/>
     </td>
     <td width="33.33%" valign="middle" align="center">
-      <a href="https://merxodevsolutions.pro.bd/our-projects">
+      <a href="https://merxodevsolutions.pro.bd/our-projects?category=saas">
         <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
       </a>
       &nbsp;
@@ -298,7 +298,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
         <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
       </a>
       &nbsp;
-      <a href="https://merxodevsolutions.pro.bd/contact">
+      <a href="https://merxodevsolutions.pro.bd/services-dashboard">
         <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
       </a>
       <br/><br/>
