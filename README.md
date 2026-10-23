@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- Profile Visitor Badges & Status -->
   <p align="center">
@@ -321,7 +321,9 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminislam3203&theme=tokyonight&hide_border=true&stroke=6366F1&background=060B19&ring=06B6D4&fire=F59E0B&currStreakLabel=06B6D4" width="90%" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=alaminislam3203&theme=tokyonight&hide_border=true&stroke=6366F1&background=060B19&ring=06B6D4&fire=F59E0B&currStreakLabel=06B6D4" width="90%" alt="GitHub Streak" />
+  </a>
 
 </div>
 
