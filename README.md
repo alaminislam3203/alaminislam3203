@@ -105,97 +105,113 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
 
 ---
 
-## <img src="images/icon/featured.svg" width="26" height="26" valign="middle" alt="Featured Flagship Projects" /> Featured Flagship Projects & Solutions
+## <img src="images/icon/featured.svg" width="26" height="26" valign="middle" alt="Featured Flagship Projects & Solutions" /> Featured Flagship Projects & Solutions
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><img src="images/icon/featured.svg" width="20" height="20" valign="middle" /> MerxoDev Solutions</h3>
+    <td width="33.33%" valign="top" align="center">
+      <br/>
+      <img src="images/icon/service.svg" width="36" height="36" alt="Full-Stack Web Development" />
+      <h3 align="center">Full-Stack Web Development</h3>
       <p align="center">
-        <a href="https://merxodevsolutions.pro.bd">
-          <img src="https://img.shields.io/badge/Live_Site-Visit_Agency-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Agency" />
+        High-performance Next.js & React platforms with sub-second latency, SEO-first SSR/SSG rendering, and fluid responsive UX.
+      </p>
+      <p align="center">
+        <b>Core Tech:</b> Next.js, React, TypeScript, Tailwind
+      </p>
+      <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
         </a>
       </p>
-      <p>
-        Official agency platform engineered with <b>Next.js App Router</b>, <b>Tailwind CSS</b>, and <b>Cloudinary</b>. Features dual-tier responsive navigation, multilingual switcher (EN, বাং, عر, 中文), dark/light theme, interactive developer tools, and rich JSON-LD schema markup.
-      </p>
-      <p>
-        <b>Tech:</b> Next.js, React, Tailwind CSS, Turbopack, Cloudinary, Schema.org
-      </p>
+      <br/>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><img src="images/icon/tools.svg" width="20" height="20" valign="middle" /> Merxo-Hub Workspace</h3>
+    <td width="33.33%" valign="top" align="center">
+      <br/>
+      <img src="images/icon/tools.svg" width="36" height="36" alt="Custom SaaS Platforms" />
+      <h3 align="center">Custom SaaS Platforms</h3>
       <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/our-projects/merxo-hub">
-          <img src="https://img.shields.io/badge/Case_Study-Explore-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Merxo-Hub" />
+        Multi-tenant architectures, role-based authorization (RBAC), subscription billing, team management, and cloud workspaces.
+      </p>
+      <p align="center">
+        <b>Core Tech:</b> Next.js, PostgreSQL, Prisma, WebSockets
+      </p>
+      <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-06B6D4?style=for-the-badge" alt="View Projects" />
         </a>
       </p>
-      <p>
-        Comprehensive cloud ecosystem and multi-tenant workspace built for project tracking, task delegation, team messaging, and real-time sprint management. Designed with sub-second page transitions and role-based permissions.
+      <br/>
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <br/>
+      <img src="images/icon/featured.svg" width="36" height="36" alt="High-Converting E-Commerce" />
+      <h3 align="center">High-Converting E-Commerce</h3>
+      <p align="center">
+        Headless e-commerce stores with instant cart synchronization, dynamic inventory filtering, and high-conversion checkout funnels.
       </p>
-      <p>
-        <b>Tech:</b> Next.js, TypeScript, PostgreSQL, Prisma, Tailwind, WebSockets
+      <p align="center">
+        <b>Core Tech:</b> Next.js, Node.js, MongoDB, Redux Toolkit
       </p>
+      <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-10B981?style=for-the-badge" alt="View Projects" />
+        </a>
+      </p>
+      <br/>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><img src="images/icon/service.svg" width="20" height="20" valign="middle" /> NickHo Motorsports</h3>
+    <td width="33.33%" valign="top" align="center">
+      <br/>
+      <img src="images/icon/payment-method.svg" width="36" height="36" alt="Fintech & Payment Gateways" />
+      <h3 align="center">Fintech & Payment Gateways</h3>
       <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/our-projects">
-          <img src="https://img.shields.io/badge/Case_Study-Explore-F59E0B?style=for-the-badge&logo=safari&logoColor=white" alt="Explore NickHo Motorsports" />
-        </a>
+        Tokenized payment modules for bKash, Nagad, Stripe, and SSLCommerz with recurring billing, webhooks, and fraud detection.
       </p>
-      <p>
-        High-performance automotive platform showcasing luxury race vehicles, performance parts inventory, dynamic booking inquiry systems, and buttery-smooth 60FPS UI transitions.
-      </p>
-      <p>
-        <b>Tech:</b> React, Next.js, Framer Motion, Tailwind CSS, REST APIs
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><img src="images/icon/payment-method.svg" width="20" height="20" valign="middle" /> ORGANIC & Merxo Mart</h3>
       <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/our-projects">
-          <img src="https://img.shields.io/badge/Case_Study-Explore-10B981?style=for-the-badge&logo=shopify&logoColor=white" alt="Explore Merxo Mart" />
-        </a>
+        <b>Core Tech:</b> Express, Webhooks, Cryptography, REST APIs
       </p>
-      <p>
-        Full-stack e-commerce stores featuring instant cart synchronization, lightning-fast inventory filtering, and 1-click checkout. Optimized performance cutting load time to 0.7s with a 340% checkout conversion surge.
-      </p>
-      <p>
-        <b>Tech:</b> Next.js, Node.js, MongoDB, Redux Toolkit, SSLCommerz, bKash
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><img src="images/icon/payment-method.svg" width="20" height="20" valign="middle" /> bKash & Fintech Integration</h3>
       <p align="center">
         <a href="https://merxodevsolutions.pro.bd/services-payment-gateway">
-          <img src="https://img.shields.io/badge/Fintech-Integration-E2136E?style=for-the-badge&logo=buffer&logoColor=white" alt="Fintech Integration" />
+          <img src="https://img.shields.io/badge/View_Projects-E2136E?style=for-the-badge" alt="View Projects" />
         </a>
       </p>
-      <p>
-        Custom, tokenized payment gateway module for <b>bKash</b>, <b>Nagad</b>, and <b>SSLCommerz</b>. Supports seamless recurring subscriptions, auto-refund webhooks, cryptographic payload verification, and fraud detection.
-      </p>
-      <p>
-        <b>Tech:</b> Node.js, Express, Next.js API Routes, Cryptography, Webhooks
-      </p>
+      <br/>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><img src="images/icon/tools.svg" width="20" height="20" valign="middle" /> Bangladesh GeoJSON Data</h3>
+    <td width="33.33%" valign="top" align="center">
+      <br/>
+      <img src="images/icon/technology-stack.svg" width="36" height="36" alt="Custom APIs & Microservices" />
+      <h3 align="center">Custom APIs & Microservices</h3>
       <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/tools">
-          <img src="https://img.shields.io/badge/Developer_Tool-Free_Access-8B5CF6?style=for-the-badge&logo=npm&logoColor=white" alt="Bangladesh GeoJSON" />
+        High-throughput backend architectures, RESTful & GraphQL microservices, third-party ERP/CRM integrations, and real-time queues.
+      </p>
+      <p align="center">
+        <b>Core Tech:</b> Node.js, GraphQL, Redis, Docker, PostgreSQL
+      </p>
+      <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-8B5CF6?style=for-the-badge" alt="View Projects" />
         </a>
       </p>
-      <p>
-        Complete open-source mapping dataset and developer tool bundle providing Division, District, Upazila, and Postcode data in single-payload JSON format for Bangladeshi developers.
+      <br/>
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <br/>
+      <img src="images/icon/connect.svg" width="36" height="36" alt="UI/UX & Frontend Systems" />
+      <h3 align="center">UI/UX & Frontend Systems</h3>
+      <p align="center">
+        Interactive design systems, 60FPS fluid animations, accessibility standards, and clean component architectures.
       </p>
-      <p>
-        <b>Tech:</b> GeoJSON, Node.js, NPM Package, Open Source
+      <p align="center">
+        <b>Core Tech:</b> Figma, Framer Motion, Tailwind, Turbopack
       </p>
+      <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-F59E0B?style=for-the-badge" alt="View Projects" />
+        </a>
+      </p>
+      <br/>
     </td>
   </tr>
 </table>
