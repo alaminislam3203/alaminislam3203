@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800px" height="800px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="32" fill="#06B6D4"/>
+  <g transform="translate(13, 13)" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Cloud base -->
+    <path d="M10,24 A7,7 0 0,1 22,19 A10,10 0 0,1 36,25 A5,5 0 0,1 34,34 L10,34 A6,6 0 0,1 10,24 Z" fill="#0891B2" fill-opacity="0.3"/>
+    <!-- Dashboard Screen overlay in front -->
+    <rect x="5" y="11" width="28" height="20" rx="3" fill="#0E7490" fill-opacity="0.7"/>
+    <line x1="5" y1="16" x2="33" y2="16"/>
+    <!-- Screen content: stats bars & chart -->
+    <rect x="9" y="21" width="4" height="6" fill="#FFFFFF" stroke="none"/>
+    <rect x="15" y="19" width="4" height="8" fill="#FFFFFF" stroke="none"/>
+    <rect x="21" y="23" width="4" height="4" fill="#FFFFFF" stroke="none"/>
+    <!-- Connected gears or nodes -->
+    <circle cx="27" cy="8" r="3" fill="#FFFFFF" stroke="none"/>
+    <line x1="27" y1="11" x2="27" y2="13"/>
+  </g>
+</svg>

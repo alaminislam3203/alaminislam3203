@@ -55,22 +55,22 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
 
 ### Frontend & UI Engineering
 <p align="center">
+  <img src="images/nextjs.svg" alt="Next.js" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/react-original.svg" alt="React" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="images/typescript.svg" alt="TypeScript" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/javascript.svg" alt="JavaScript" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="images/tailwind.svg" alt="Tailwind CSS" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/redux.svg" alt="Redux" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/html5.svg" alt="HTML5" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/css.svg" alt="CSS3" width="44" height="44" /> &nbsp;&nbsp;
-  <img src="images/sass.svg" alt="Sass" width="44" height="44" /> &nbsp;&nbsp;
-  <img src="images/jquery-original.svg" alt="jQuery" width="44" height="44" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind" alt="TypeScript, Next.js, Tailwind CSS" />
+  <img src="images/sass.svg" alt="Sass" width="44" height="44" />
 </p>
 
 <br/>
 
 ### Backend Architecture & Programming Languages
 <p align="center">
+  <img src="images/nodejs.svg" alt="Node.js" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/python-original.svg" alt="Python" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/php.svg" alt="PHP" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/cSharp.svg" alt="C#" width="44" height="44" /> &nbsp;&nbsp;
@@ -80,25 +80,21 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
   <img src="images/c.svg" alt="C" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/json.svg" alt="JSON" width="44" height="44" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postman" alt="Node.js, Express, GraphQL, Postman" />
-</p>
 
 <br/>
 
-### Databases, DevOps & Tooling
+### Databases, DevOps, Design & Tooling
 <p align="center">
   <img src="images/postgresql.svg" alt="PostgreSQL" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="images/mongodb.svg" alt="MongoDB" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/mysql.svg" alt="MySQL" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="images/docker.svg" alt="Docker" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/git-original.svg" alt="Git" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/github.svg" alt="GitHub" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="images/figma.svg" alt="Figma" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/npm.svg" alt="NPM" width="44" height="44" /> &nbsp;&nbsp;
-  <img src="images/gulp.svg" alt="Gulp" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/android.svg" alt="Android" width="44" height="44" /> &nbsp;&nbsp;
   <img src="images/unity3d.svg" alt="Unity" width="44" height="44" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,prisma,supabase,firebase,docker,aws,vercel" alt="Cloud & DevOps Tools" />
 </p>
 
 </div>
@@ -111,7 +107,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
   <tr>
     <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/service.svg" width="36" height="36" alt="Full-Stack Web Development" />
+      <img src="images/icon/web-dev.svg" width="36" height="36" alt="Full-Stack Web Development" />
       <h3 align="center">Full-Stack Web Development</h3>
       <p align="center">
         High-performance Next.js & React platforms with sub-second latency, SEO-first SSR/SSG rendering, and fluid responsive UX.
@@ -128,7 +124,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
     </td>
     <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/tools.svg" width="36" height="36" alt="Custom SaaS Platforms" />
+      <img src="images/icon/saas.svg" width="36" height="36" alt="Custom SaaS Platforms" />
       <h3 align="center">Custom SaaS Platforms</h3>
       <p align="center">
         Multi-tenant architectures, role-based authorization (RBAC), subscription billing, team management, and cloud workspaces.
@@ -145,7 +141,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
     </td>
     <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/featured.svg" width="36" height="36" alt="High-Converting E-Commerce" />
+      <img src="images/icon/ecommerce.svg" width="36" height="36" alt="High-Converting E-Commerce" />
       <h3 align="center">High-Converting E-Commerce</h3>
       <p align="center">
         Headless e-commerce stores with instant cart synchronization, dynamic inventory filtering, and high-conversion checkout funnels.
@@ -164,7 +160,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
   <tr>
     <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/payment-method.svg" width="36" height="36" alt="Fintech & Payment Gateways" />
+      <img src="images/icon/fintech.svg" width="36" height="36" alt="Fintech & Payment Gateways" />
       <h3 align="center">Fintech & Payment Gateways</h3>
       <p align="center">
         Tokenized payment modules for bKash, Nagad, Stripe, and SSLCommerz with recurring billing, webhooks, and fraud detection.
@@ -181,7 +177,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
     </td>
     <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/technology-stack.svg" width="36" height="36" alt="Custom APIs & Microservices" />
+      <img src="images/icon/api.svg" width="36" height="36" alt="Custom APIs & Microservices" />
       <h3 align="center">Custom APIs & Microservices</h3>
       <p align="center">
         High-throughput backend architectures, RESTful & GraphQL microservices, third-party ERP/CRM integrations, and real-time queues.
@@ -198,7 +194,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
     </td>
     <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/connect.svg" width="36" height="36" alt="UI/UX & Frontend Systems" />
+      <img src="images/icon/ui-ux.svg" width="36" height="36" alt="UI/UX & Frontend Systems" />
       <h3 align="center">UI/UX & Frontend Systems</h3>
       <p align="center">
         Interactive design systems, 60FPS fluid animations, accessibility standards, and clean component architectures.
@@ -223,7 +219,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="images/icon/service.svg" width="18" height="18" valign="middle" /> Full-Stack Web Applications</h4>
+      <h4><img src="images/icon/web-dev.svg" width="18" height="18" valign="middle" /> Full-Stack Web Applications</h4>
       <ul>
         <li>Next.js 15 & React Platforms</li>
         <li>Sub-second performance (0.7s avg)</li>
@@ -231,7 +227,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4><img src="images/icon/tools.svg" width="18" height="18" valign="middle" /> Custom SaaS Platform MVPs</h4>
+      <h4><img src="images/icon/saas.svg" width="18" height="18" valign="middle" /> Custom SaaS Platform MVPs</h4>
       <ul>
         <li>Multi-tenant architecture</li>
         <li>Role-based auth & permissions</li>
@@ -241,7 +237,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="images/icon/payment-method.svg" width="18" height="18" valign="middle" /> High-Converting E-Commerce</h4>
+      <h4><img src="images/icon/ecommerce.svg" width="18" height="18" valign="middle" /> High-Converting E-Commerce</h4>
       <ul>
         <li>Headless e-commerce stores</li>
         <li>Dynamic inventory & analytics</li>
@@ -249,7 +245,7 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4><img src="images/icon/payment-method.svg" width="18" height="18" valign="middle" /> Custom API & Payment Gateways</h4>
+      <h4><img src="images/icon/fintech.svg" width="18" height="18" valign="middle" /> Custom API & Payment Gateways</h4>
       <ul>
         <li>bKash, Nagad, Stripe, Wise</li>
         <li>Third-party CRM/ERP sync</li>

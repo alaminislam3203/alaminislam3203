@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800px" height="800px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="32" fill="#10B981"/>
+  <g transform="translate(13, 14)" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Shopping Cart -->
+    <path d="M2,3 L8,3 L13,23 L31,23 L35,9 L10,9"/>
+    <!-- Wheels -->
+    <circle cx="15" cy="29" r="2.8" fill="#FFFFFF"/>
+    <circle cx="29" cy="29" r="2.8" fill="#FFFFFF"/>
+    <!-- Growth spark / item inside cart -->
+    <path d="M19,16 L23,12 L27,15 L32,10" stroke-width="2"/>
+    <polyline points="29,10 32,10 32,13" stroke-width="2"/>
+  </g>
+</svg>
