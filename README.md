@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- Profile Visitor Badges & Status -->
   <p align="center">
@@ -82,164 +82,55 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
 
 ---
 
-## <img src="images/icon/featured.svg" width="26" height="26" valign="middle" alt="Featured Flagship Projects & Solutions" /> Featured Flagship Projects & Solutions
+## <img src="images/icon/featured.svg" width="26" height="26" valign="middle" alt="Featured Solutions & Core Services" /> Featured Solutions & Core Services
 
 <table>
   <!-- Row 1 -->
   <tr>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/web-dev.svg" width="32" height="32" alt="Web Applications" />
-      <h4 align="center">Web Applications</h4>
-      <p align="center">Next.js App Router, SSR/SSG, and 0.7s sub-second latency.</p>
+      <img src="images/icon/web-dev.svg" width="36" height="36" alt="Website Development" />
+      <h3 align="center">Website Development</h3>
+      <p align="center">Fast, responsive, and SEO-ready websites built with Next.js and React.</p>
       <p align="center">
         <a href="https://merxodevsolutions.pro.bd/our-projects">
           <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
         </a>
-      </p>
-      <br/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <br/>
-      <img src="images/icon/saas.svg" width="32" height="32" alt="SaaS Platforms" />
-      <h4 align="center">SaaS Platforms</h4>
-      <p align="center">Multi-tenant architecture, RBAC, and subscription billing.</p>
-      <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/our-projects">
-          <img src="https://img.shields.io/badge/View_Projects-06B6D4?style=for-the-badge" alt="View Projects" />
-        </a>
-      </p>
-      <br/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <br/>
-      <img src="images/icon/ecommerce.svg" width="32" height="32" alt="Headless Commerce" />
-      <h4 align="center">Headless Commerce</h4>
-      <p align="center">Instant cart sync, fast filtering, and 1-click checkout funnels.</p>
-      <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/our-projects">
-          <img src="https://img.shields.io/badge/View_Projects-10B981?style=for-the-badge" alt="View Projects" />
-        </a>
-      </p>
-      <br/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <br/>
-      <img src="images/icon/fintech.svg" width="32" height="32" alt="Fintech & Payments" />
-      <h4 align="center">Fintech & Payments</h4>
-      <p align="center">Tokenized bKash, Nagad, Stripe, and auto-refund webhooks.</p>
-      <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/services-payment-gateway">
-          <img src="https://img.shields.io/badge/View_Projects-E2136E?style=for-the-badge" alt="View Projects" />
-        </a>
-      </p>
-      <br/>
-    </td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <td width="25%" valign="top" align="center">
-      <br/>
-      <img src="images/icon/api.svg" width="32" height="32" alt="APIs & Architecture" />
-      <h4 align="center">APIs & Microservices</h4>
-      <p align="center">High-throughput RESTful and GraphQL backend pipelines.</p>
-      <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/our-projects">
-          <img src="https://img.shields.io/badge/View_Projects-8B5CF6?style=for-the-badge" alt="View Projects" />
-        </a>
-      </p>
-      <br/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <br/>
-      <img src="images/icon/ui-ux.svg" width="32" height="32" alt="UI/UX Systems" />
-      <h4 align="center">UI/UX Design Systems</h4>
-      <p align="center">Figma prototypes, Tailwind CSS, and 60FPS fluid motion.</p>
-      <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/our-projects">
-          <img src="https://img.shields.io/badge/View_Projects-F59E0B?style=for-the-badge" alt="View Projects" />
-        </a>
-      </p>
-      <br/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <br/>
-      <img src="images/icon/tools.svg" width="32" height="32" alt="Developer Tools" />
-      <h4 align="center">Developer Tools</h4>
-      <p align="center">Open-source datasets including bangladesh-geojson mapping.</p>
-      <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/tools">
-          <img src="https://img.shields.io/badge/View_Projects-4F46E5?style=for-the-badge" alt="View Projects" />
-        </a>
-      </p>
-      <br/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <br/>
-      <img src="images/icon/technology-stack.svg" width="32" height="32" alt="Cloud & DevOps" />
-      <h4 align="center">Cloud & DevOps</h4>
-      <p align="center">Docker containers, automated CI/CD, and Vercel/AWS cloud.</p>
-      <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/our-projects">
-          <img src="https://img.shields.io/badge/View_Projects-0284C7?style=for-the-badge" alt="View Projects" />
-        </a>
-      </p>
-      <br/>
-    </td>
-  </tr>
-</table>
-
----
-
-## <img src="images/icon/service.svg" width="26" height="26" valign="middle" alt="Core Services" /> Core Services We Deliver at MerxoDev
-
-<table>
-  <!-- Row 1 -->
-  <tr>
-    <td width="25%" valign="top" align="center">
-      <br/>
-      <img src="images/icon/web-dev.svg" width="32" height="32" alt="Website Development" />
-      <h4 align="center">Website Development</h4>
-      <p align="center">Fast, responsive, and SEO-ready websites with Next.js and React.</p>
-      <p align="center">
+        &nbsp;
         <a href="https://merxodevsolutions.pro.bd/services-web">
-          <img src="https://img.shields.io/badge/Explore-6366F1?style=for-the-badge" alt="Website Development" />
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
         </a>
       </p>
       <br/>
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/ecommerce.svg" width="32" height="32" alt="E-commerce Stores" />
-      <h4 align="center">E-commerce Stores</h4>
-      <p align="center">Full-featured online stores with product catalog, cart, and payment.</p>
+      <img src="images/icon/ecommerce.svg" width="36" height="36" alt="E-commerce Development" />
+      <h3 align="center">E-commerce Development</h3>
+      <p align="center">High-converting online stores with instant cart synchronization and checkout.</p>
       <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
+        </a>
+        &nbsp;
         <a href="https://merxodevsolutions.pro.bd/services-ecommerce">
-          <img src="https://img.shields.io/badge/Explore-10B981?style=for-the-badge" alt="E-commerce Stores" />
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
         </a>
       </p>
       <br/>
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/saas.svg" width="32" height="32" alt="Web Applications" />
-      <h4 align="center">Web Applications</h4>
-      <p align="center">Bespoke dashboards, SaaS tools, and scalable internal portals.</p>
+      <img src="images/icon/saas.svg" width="36" height="36" alt="Custom Web Application" />
+      <h3 align="center">Custom Web Application</h3>
+      <p align="center">Bespoke dashboards, multi-tenant SaaS tools, and scalable internal portals.</p>
       <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
+        </a>
+        &nbsp;
         <a href="https://merxodevsolutions.pro.bd/services-web-app">
-          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Web Applications" />
-        </a>
-      </p>
-      <br/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <br/>
-      <img src="images/icon/ui-ux.svg" width="32" height="32" alt="UI/UX Design" />
-      <h4 align="center">UI/UX Design</h4>
-      <p align="center">Intuitive Figma design systems brought to life with 60FPS motion.</p>
-      <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/services-design">
-          <img src="https://img.shields.io/badge/Explore-F59E0B?style=for-the-badge" alt="UI/UX Design" />
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
         </a>
       </p>
       <br/>
@@ -247,50 +138,50 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
   </tr>
   <!-- Row 2 -->
   <tr>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/api.svg" width="32" height="32" alt="API & Integrations" />
-      <h4 align="center">API & Integrations</h4>
+      <img src="images/icon/ui-ux.svg" width="36" height="36" alt="UI/UX Design" />
+      <h3 align="center">UI/UX Design</h3>
+      <p align="center">Intuitive Figma design systems brought to life with 60FPS fluid motion.</p>
+      <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
+        </a>
+        &nbsp;
+        <a href="https://merxodevsolutions.pro.bd/services-design">
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
+        </a>
+      </p>
+      <br/>
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <br/>
+      <img src="images/icon/api.svg" width="36" height="36" alt="API Development & Integration" />
+      <h3 align="center">API Development & Integration</h3>
       <p align="center">RESTful/GraphQL APIs, webhooks, and third-party CRM/ERP sync.</p>
       <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
+        </a>
+        &nbsp;
         <a href="https://merxodevsolutions.pro.bd/services-api-integration">
-          <img src="https://img.shields.io/badge/Explore-8B5CF6?style=for-the-badge" alt="API Integration" />
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
         </a>
       </p>
       <br/>
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/security.svg" width="32" height="32" alt="Auth & Security" />
-      <h4 align="center">Auth & Security</h4>
-      <p align="center">Secure login, JWT, OAuth, 2FA, and role-based access control.</p>
+      <img src="images/icon/security.svg" width="36" height="36" alt="Authentication & Security" />
+      <h3 align="center">Authentication & Security</h3>
+      <p align="center">Secure login, JWT, OAuth, 2FA, and role-based permissions (RBAC).</p>
       <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
+        </a>
+        &nbsp;
         <a href="https://merxodevsolutions.pro.bd/services-security">
-          <img src="https://img.shields.io/badge/Explore-4F46E5?style=for-the-badge" alt="Auth & Security" />
-        </a>
-      </p>
-      <br/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <br/>
-      <img src="images/icon/fintech.svg" width="32" height="32" alt="Payment Gateways" />
-      <h4 align="center">Payment Gateways</h4>
-      <p align="center">Custom bKash, Nagad, Stripe, and SSLCommerz checkout modules.</p>
-      <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/services-payment-gateway">
-          <img src="https://img.shields.io/badge/Explore-E11D48?style=for-the-badge" alt="Payment Gateways" />
-        </a>
-      </p>
-      <br/>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <br/>
-      <img src="images/icon/database.svg" width="32" height="32" alt="Database Design" />
-      <h4 align="center">Database Design</h4>
-      <p align="center">Scalable PostgreSQL, MongoDB, and MySQL with indexing and backups.</p>
-      <p align="center">
-        <a href="https://merxodevsolutions.pro.bd/services-database">
-          <img src="https://img.shields.io/badge/Explore-0D9488?style=for-the-badge" alt="Database Design" />
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
         </a>
       </p>
       <br/>
@@ -298,50 +189,101 @@ I specialize in engineering high-performance **Next.js** applications, multi-ten
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/tools.svg" width="32" height="32" alt="Maintenance & Support" />
-      <h4 align="center">Maintenance & Support</h4>
-      <p align="center">Continuous monitoring, security patches, bug fixes, and updates.</p>
+      <img src="images/icon/fintech.svg" width="36" height="36" alt="Payment Gateway Integration" />
+      <h3 align="center">Payment Gateway Integration</h3>
+      <p align="center">Custom bKash, Nagad, Stripe, and SSLCommerz checkout modules.</p>
       <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/services-payment-gateway">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
+        </a>
+        &nbsp;
+        <a href="https://merxodevsolutions.pro.bd/services-payment-gateway">
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
+        </a>
+      </p>
+      <br/>
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <br/>
+      <img src="images/icon/database.svg" width="36" height="36" alt="Database Design & Management" />
+      <h3 align="center">Database Design & Management</h3>
+      <p align="center">Scalable PostgreSQL, MongoDB, and MySQL with query indexing and backups.</p>
+      <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
+        </a>
+        &nbsp;
+        <a href="https://merxodevsolutions.pro.bd/services-database">
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
+        </a>
+      </p>
+      <br/>
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <br/>
+      <img src="images/icon/tools.svg" width="36" height="36" alt="Website Maintenance & Support" />
+      <h3 align="center">Website Maintenance & Support</h3>
+      <p align="center">Continuous monitoring, security patches, bug fixes, and 24/7 care.</p>
+      <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
+        </a>
+        &nbsp;
         <a href="https://merxodevsolutions.pro.bd/services-maintenance">
-          <img src="https://img.shields.io/badge/Explore-76C2AF?style=for-the-badge" alt="Maintenance & Support" />
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
         </a>
       </p>
       <br/>
     </td>
-    <td width="25%" valign="top" align="center">
+  </tr>
+  <!-- Row 4 -->
+  <tr>
+    <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/analytics.svg" width="32" height="32" alt="SEO Optimization" />
-      <h4 align="center">SEO Optimization</h4>
-      <p align="center">Technical SEO, Core Web Vitals, and structured data ranking growth.</p>
+      <img src="images/icon/analytics.svg" width="36" height="36" alt="SEO Optimization" />
+      <h3 align="center">SEO Optimization</h3>
+      <p align="center">Technical SEO audits, Core Web Vitals, and structured data rank growth.</p>
       <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
+        </a>
+        &nbsp;
         <a href="https://merxodevsolutions.pro.bd/services-seo">
-          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="SEO Optimization" />
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
         </a>
       </p>
       <br/>
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/automation.svg" width="32" height="32" alt="Business Automation" />
-      <h4 align="center">Business Automation</h4>
+      <img src="images/icon/automation.svg" width="36" height="36" alt="Business Automation" />
+      <h3 align="center">Business Automation</h3>
       <p align="center">Automate repetitive tasks, business workflows, and notification bots.</p>
       <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
+        </a>
+        &nbsp;
         <a href="https://merxodevsolutions.pro.bd/services-automation">
-          <img src="https://img.shields.io/badge/Explore-7C3AED?style=for-the-badge" alt="Business Automation" />
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
         </a>
       </p>
       <br/>
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <br/>
-      <img src="images/icon/dashboard.svg" width="32" height="32" alt="Admin Dashboards" />
-      <h4 align="center">Admin Dashboards</h4>
-      <p align="center">Real-time data visualization, charts, and granular role control.</p>
+      <img src="images/icon/dashboard.svg" width="36" height="36" alt="Admin Dashboard Development" />
+      <h3 align="center">Admin Dashboard Development</h3>
+      <p align="center">Real-time data visualization, charts, and granular role control panels.</p>
       <p align="center">
+        <a href="https://merxodevsolutions.pro.bd/our-projects">
+          <img src="https://img.shields.io/badge/View_Projects-6366F1?style=for-the-badge" alt="View Projects" />
+        </a>
+        &nbsp;
         <a href="https://merxodevsolutions.pro.bd/contact">
-          <img src="https://img.shields.io/badge/Explore-0284C7?style=for-the-badge" alt="Admin Dashboards" />
+          <img src="https://img.shields.io/badge/Explore-06B6D4?style=for-the-badge" alt="Explore Service" />
         </a>
       </p>
       <br/>
