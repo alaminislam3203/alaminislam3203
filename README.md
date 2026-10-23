@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
   <!-- Profile Visitor Badges & Status -->
   <p align="center">
